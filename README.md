@@ -1,5 +1,5 @@
 ```python
-pip install Chris
+pip install csreuter
 ```
 
 ## 👋 Hi, I’m @csreuter
