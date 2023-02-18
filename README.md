@@ -1,5 +1,5 @@
 ```python
-pip install csreuter
+pip install -U csreuter
 ```
 
 ## 👋 Hi, I’m @csreuter
