@@ -4,7 +4,7 @@ pip install -U csreuter
 
 ## 👋 Hi, I’m @csreuter
 
-I'm the Head of Growth at Prefect. Find me at [my website](https://chrisreuter.me), or on [Twitter](https://www.twitter.com/csreuter) & [LinkedIn](https://www.linkedin.com/in/csreuter/).
+I'm the Head of Product Marketing at [Resourcely](https://www.resourcely.io/). Find me at [my website](https://chrisreuter.me), or on [Twitter](https://www.twitter.com/csreuter) & [LinkedIn](https://www.linkedin.com/in/csreuter/).
 
 
 <!---
